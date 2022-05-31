@@ -4,12 +4,6 @@
     position: relative ;
 }
 
-header{
-    height: 100vh;
-    /* padding-top: 7rem; */
-    overflow: hidden;
-
-}
 
 .cta{
     margin-top: 2.5rem;
@@ -42,8 +36,10 @@ header{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    margin-top: -10rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    /* padding: 0rem 1.5rem 1.5rem 1.5rem; */
+    margin-top: 20px;
+}
+.me img {
+    width: 100%;
 }
