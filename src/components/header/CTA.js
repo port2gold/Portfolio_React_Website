@@ -1,9 +1,8 @@
 import React from 'react'
 import Cv from '../../assets/Abdulkabir Omotoso (2).pdf'
-import { useState } from 'react'
+
 
 const CTA = () => {
-  const [counter, setCounter] = useState(0);
 
   return (
     
