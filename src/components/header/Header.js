@@ -5,9 +5,8 @@ import Me from '../../assets/ABDULKARIM (2).jpg'
 import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
-  console.log("What is my name::")
   return (
-    <header>
+    <div className='header'>
     <div className='container header__container'>
         <h5>Hello I'm</h5>
         <h2>Abdulkabir Omotoso</h2>
@@ -21,7 +20,7 @@ const Header = () => {
       <a className='scroll__down' href='#contact'>Scroll Down</a>
 
 
-    </header>
+    </div>
     
 
   )
