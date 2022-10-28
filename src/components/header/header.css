@@ -28,17 +28,3 @@
     background-color: var(--color-primary);
 }
 
-.me{
-    background-color: linear-gradient(var(--color-primary),transparent);
-    width: 22rem;
-    height: 30rem;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    border-radius: 12rem 12rem 0 0;
-    overflow: hidden;
-    margin-top: 20px;
-}
-.me img {
-    width: 100%;
-}
