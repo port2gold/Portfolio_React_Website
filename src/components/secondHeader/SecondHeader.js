@@ -5,7 +5,7 @@ import "./SecondHeader.css";
 
 const SecondHeader = () => {
   return (
-    <div className="secondHeaderContainer">
+    <div className=" container secondHeaderContainer">
       <HeaderSocials />
       <div className="me">
         <img src={Me} alt="my me me" />
