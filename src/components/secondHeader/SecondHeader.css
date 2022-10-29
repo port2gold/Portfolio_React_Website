@@ -25,3 +25,7 @@
 img{
     min-width: 0;
 }
+
+.scroll__down{
+    transform: rotate(90deg);
+}

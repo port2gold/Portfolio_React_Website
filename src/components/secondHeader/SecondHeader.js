@@ -10,10 +10,8 @@ const SecondHeader = () => {
       <div className="me">
         <img src={Me} alt="my me me" />
       </div>
-      <div>
-        <a className="scroll__down" href="#contact">
-          Scroll Down
-        </a>
+      <div className="scroll__down">
+        <a href="#contact">Scroll Down</a>
       </div>
     </div>
   );
