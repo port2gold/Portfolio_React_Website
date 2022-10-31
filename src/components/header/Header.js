@@ -12,9 +12,6 @@ const Header = () => {
         <CTA/>
     </div>
     </div>
-    
-
   )
 }
-
 export default Header
