@@ -16,5 +16,4 @@ const SecondHeader = () => {
     </div>
   );
 };
-
 export default SecondHeader;
