@@ -83,13 +83,13 @@ const About = () => {
             faucibus vitae aliquet nec. Sed euismod nisi porta lorem mollis
             aliquam ut porttitor leo. Amet purus gravida quis blandit. Sit amet
             consectetur adipiscing elit. Amet risus nullam eget felis eget nunc.
-            Euismod in pellentesque massa placerat duis. Suspendisse potenti
+            {/* Euismod in pellentesque massa placerat duis. Suspendisse potenti
             nullam ac tortor vitae purus faucibus ornare. Hac habitasse platea
             dictumst quisque. Ante in nibh mauris cursus mattis. Orci nulla
             pellentesque dignissim enim. Luctus accumsan tortor posuere ac ut
             consequat semper viverra nam. Nec tincidunt praesent semper feugiat
             nibh. Nisl nunc mi ipsum faucibus vitae. Nunc scelerisque viverra
-            mauris in aliquam.
+            mauris in aliquam. */}
           </p>
 
           <a href="#contact" className="btn btn-primary">
