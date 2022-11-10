@@ -54,9 +54,7 @@ const About = () => {
             faucibus vitae aliquet nec. Sed euismod nisi porta lorem mollis
             aliquam ut porttitor leo. Amet purus gravida quis blandit. Sit amet
             consectetur adipiscing elit. Amet risus nullam eget felis eget nunc.
-
           </p>
-
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>
