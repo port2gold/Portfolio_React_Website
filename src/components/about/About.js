@@ -50,46 +50,11 @@ const About = () => {
             netus. Volutpat est velit egestas dui id ornare arcu odio. Sit amet
             tellus cras adipiscing enim eu turpis egestas pretium. Semper eget
             duis at tellus at urna condimentum mattis. Nec tincidunt praesent
-            semper feugiat nibh sed pulvinar proin gravida. Nisl tincidunt eget
-            nullam non nisi est sit. Sollicitudin tempor id eu nisl nunc mi
-            ipsum faucibus. Etiam dignissim diam quis enim lobortis scelerisque.
-            Integer malesuada nunc vel risus commodo. Et odio pellentesque diam
-            volutpat commodo sed egestas egestas. Praesent elementum facilisis
-            leo vel fringilla est ullamcorper eget. Nulla pellentesque dignissim
-            enim sit amet. Ac ut consequat semper viverra nam. Vel pharetra vel
-            turpis nunc eget lorem dolor sed. Tempor orci dapibus ultrices in
-            iaculis nunc sed augue. Duis tristique sollicitudin nibh sit. Id
-            aliquet lectus proin nibh nisl. Convallis tellus id interdum velit
-            laoreet id donec. A erat nam at lectus urna. Viverra nibh cras
-            pulvinar mattis nunc sed blandit libero. Amet porttitor eget dolor
-            morbi. Nunc pulvinar sapien et ligula ullamcorper malesuada proin.
-            Id semper risus in hendrerit. Ut diam quam nulla porttitor massa id.
-            Tempor orci eu lobortis elementum nibh tellus molestie. Ultricies
-            integer quis auctor elit. Maecenas volutpat blandit aliquam etiam
-            erat velit scelerisque in dictum. Sit amet luctus venenatis lectus
-            magna fringilla urna porttitor. Vulputate odio ut enim blandit.
-            Viverra mauris in aliquam sem fringilla ut morbi tincidunt. Integer
-            enim neque volutpat ac. Pellentesque id nibh tortor id. Aliquam
-            eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis.
-            Eu consequat ac felis donec. Diam maecenas ultricies mi eget mauris
-            pharetra et. A iaculis at erat pellentesque. Interdum velit euismod
-            in pellentesque. Leo a diam sollicitudin tempor id eu nisl. Justo
-            laoreet sit amet cursus sit. A diam maecenas sed enim ut sem viverra
-            aliquet. Fames ac turpis egestas sed tempus urna et. Tellus molestie
-            nunc non blandit massa. Pellentesque nec nam aliquam sem. Fames ac
-            turpis egestas maecenas pharetra. Id donec ultrices tincidunt arcu
-            non sodales neque. Metus vulputate eu scelerisque felis imperdiet.
-            Urna porttitor rhoncus dolor purus non. Id eu nisl nunc mi ipsum
+           
             faucibus vitae aliquet nec. Sed euismod nisi porta lorem mollis
             aliquam ut porttitor leo. Amet purus gravida quis blandit. Sit amet
             consectetur adipiscing elit. Amet risus nullam eget felis eget nunc.
-            {/* Euismod in pellentesque massa placerat duis. Suspendisse potenti
-            nullam ac tortor vitae purus faucibus ornare. Hac habitasse platea
-            dictumst quisque. Ante in nibh mauris cursus mattis. Orci nulla
-            pellentesque dignissim enim. Luctus accumsan tortor posuere ac ut
-            consequat semper viverra nam. Nec tincidunt praesent semper feugiat
-            nibh. Nisl nunc mi ipsum faucibus vitae. Nunc scelerisque viverra
-            mauris in aliquam. */}
+
           </p>
 
           <a href="#contact" className="btn btn-primary">
