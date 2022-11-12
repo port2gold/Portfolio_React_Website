@@ -10,7 +10,6 @@ const About = () => {
     <section id="about">
       <h5>Get To Know</h5>
       <h2>About Me</h2>
-
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
@@ -50,10 +49,6 @@ const About = () => {
             netus. Volutpat est velit egestas dui id ornare arcu odio. Sit amet
             tellus cras adipiscing enim eu turpis egestas pretium. Semper eget
             duis at tellus at urna condimentum mattis. Nec tincidunt praesent
-           
-            faucibus vitae aliquet nec. Sed euismod nisi porta lorem mollis
-            aliquam ut porttitor leo. Amet purus gravida quis blandit. Sit amet
-            consectetur adipiscing elit. Amet risus nullam eget felis eget nunc.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
