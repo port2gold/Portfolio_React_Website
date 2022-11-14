@@ -21,11 +21,9 @@
     width: 100%; 
     min-width: 0;
 }
-
 img{
     min-width: 0;
 }
-
 .scroll__down{
     transform: rotate(90deg);
 }
