@@ -4,7 +4,6 @@
     justify-content: space-between;
     align-items:center;
 }
-
 .me{
     background-color: linear-gradient(var(--color-primary),transparent);
     width: 22rem;
