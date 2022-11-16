@@ -31,7 +31,6 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
 }
-
 .about__card{
     background: var(--color-bg-variant);
     border: 1px solid transparent;
@@ -40,13 +39,11 @@
     text-align: center;
     transition: var(--transition);
     }
-    
     .about__card:hover{
         background: transparent;
         border-color:  var(--color-primary-varient);
         cursor: default;
     }
-
     .about__icons{
         color:var(--color-primary);
         font-size: 1.4rem;
