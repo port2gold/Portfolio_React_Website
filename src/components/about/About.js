@@ -37,10 +37,7 @@ const About = () => {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam
-            vestibulum morbi blandit cursus. Quam pellentesque nec nam aliquam
-            sem. Massa enim nec dui nunc mattis enim ut. At erat pellentesque
-            adipiscing commodo elit at imperdiet dui accumsan. Diam sit amet
-            nisl suscipit adipiscing bibendum. Lorem ipsum dolor sit amet
+            vestibulum morbi blandit cursus. Quam pellentesque nec nam aliqua
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
