@@ -1,4 +1,3 @@
-import react from "react";
 import Me from "../../assets/ABDULKARIM (2).jpg";
 import HeaderSocials from "../header/HeaderSocials";
 import "./SecondHeader.css";
