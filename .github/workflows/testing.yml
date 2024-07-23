@@ -16,3 +16,9 @@ jobs:
       - run: npm run build --if-present
       - run: |
           echo "build Completed successfully!"
+
+      -name: Deploy to GH Pages
+       uses: peaceiris/actions-gh-pages@v3
+       with: 
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: public
